@@ -30,7 +30,7 @@ export function Hero() {
           </div>
           <Button className="btn-gradient hover-lift animate-fade-in" asChild>
             <a 
-              href="https://drive.google.com/file/d/1XNUZhami7BsEPMI_e9BrUjTdFrYpJ8O3/view?usp=drivesdk" 
+              href="https://drive.google.com/file/d/1TfybJoRodyyRhl_MTW7c2tuA8vE2Hs9Q/view?usp=drivesdk" 
               target="_blank" 
               rel="noopener noreferrer"
             >

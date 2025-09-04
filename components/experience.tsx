@@ -20,8 +20,8 @@ const education = [
   {
     title: "Bachelor's in Information Technology",
     institution: "L.D. College of Engineering, Ahmedabad",
-    date: "2021 - pursuing",
-    grade: "84%",
+    date: "2021 - 2025",
+    grade: "89%",
   },
   {
     title: "Higher Secondary Education",

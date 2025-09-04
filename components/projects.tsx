@@ -4,6 +4,30 @@ import { Code, Palette, FileCode, Dumbbell, UserCircle, Home } from "lucide-reac
 import { Badge } from "@/components/ui/badge"
 
 const projects = [
+   {
+    title: "Paw Care – Landing Page",
+    description:
+      "An elegant landing page for pet lovers, showcasing smooth animations and a user-friendly design to make pet care services simple and accessible.",
+    link: "https://paww-care.vercel.app/",
+    category: "Frontend",
+    icon: <Dumbbell className="w-4 h-4" />,
+  },
+  {
+    title: "Nail Studio",
+    description:
+      " A glamorous and stylish landing page with soft animations and a responsive layout, designed to highlight nail art services with elegance and charm.",
+    link: "https://nail-studio-smoky.vercel.app/",
+    category: "Frontend",
+    icon: <Palette className="w-4 h-4" />,
+  },
+  {
+    title: "Olea Skincare Web App",
+    description:
+      "Olea is a premium Australian skincare brand web app featuring products made with native botanicals. It highlights natural ingredients, scientific efficacy, and an elegant, immersive user experience.",
+    link: "https://olea-skincare.vercel.app/",
+    category: "Frontend",
+    icon: <Palette className="w-4 h-4" />,
+  },
   {
     title: "Fitness Tracker App",
     description:
@@ -27,22 +51,6 @@ const projects = [
     link: "https://github.com/01Maya/Interior_design",
     category: "Frontend",
     icon: <Home className="w-4 h-4" />,
-  },
-  {
-    title: "Beauty Product Landing Page",
-    description:
-      "A sleek, minimal landing page for natural beauty products featuring smooth scroll navigation, elegant hover effects, and a clean aesthetic that highlights organic essence.",
-    link: "https://github.com/01Maya/Beauty_Product",
-    category: "Frontend",
-    icon: <Palette className="w-4 h-4" />,
-  },
-  {
-    title: "SaaS Landing Page",
-    description:
-      "A minimal SaaS landing page designed with flawless UI/UX, featuring smooth animations, responsive layouts, and interactive hover effects for seamless user experience.",
-    link: "https://github.com/01Maya/SAAS_Page",
-    category: "Frontend",
-    icon: <FileCode className="w-4 h-4" />,
   },
   {
     title: "Agency Landing Page",
