@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { Mail, Phone, Github, FileDown } from 'lucide-react'
+import { Mail, Github, FileDown } from 'lucide-react'
 import { Button } from "@/components/ui/button"
 
 export function Hero() {
