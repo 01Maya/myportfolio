@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react"
 import Link from "next/link"
-import { Home, User, Briefcase, Code2, GraduationCap, Mail, Menu, X } from 'lucide-react'
+import { Home, User, Briefcase, Code2, GraduationCap, Mail, Menu} from 'lucide-react'
 import { Button } from "@/components/ui/button"
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
 
