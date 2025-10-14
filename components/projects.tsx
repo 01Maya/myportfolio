@@ -4,6 +4,17 @@ import { Code, Palette, FileCode, Dumbbell, UserCircle, Home } from "lucide-reac
 import { Badge } from "@/components/ui/badge"
 
 const projects = [
+   /*
+{
+  title: "My Card Portfolio",
+  description:
+    "A clean, minimal, and modern interactive Draggable Card Portfolio showcasing projects with draggable cards featuring images, titles, and integrated social links, fully responsive across all devices.",
+  link: "https://mansicardportfolio.vercel.app/",
+  category: "Frontend",
+  icon: <Palette className="w-4 h-4" />,
+}
+*/
+
    {
     title: "Paw Care – Landing Page",
     description:
