@@ -32,7 +32,7 @@ const projects = [
     title: "Olea Skincare Web App",
     description:
       "Olea is a premium Australian skincare brand web app featuring products made with native botanicals. It highlights natural ingredients, scientific efficacy, and an elegant, immersive user experience.",
-    link: "https://olea-skincare.vercel.app/",
+    link: "https://olea-skincare-landing-page.vercel.app/",
     category: "Frontend",
     icon: <Palette className="w-4 h-4" />,
   },
