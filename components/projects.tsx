@@ -56,7 +56,7 @@ const projects = [
     title: "Interior Design Portfolio",
     description:
       "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
-    link: "https://github.com/01Maya/Interior_design",
+    link: "https://luxor-interior-design.vercel.app/",
     category: "Frontend",
     icon: <Home className="w-4 h-4" />,
   },
