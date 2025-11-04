@@ -29,14 +29,6 @@ const projects = [
     icon: <Palette className="w-4 h-4" />,
   },
   {
-    title: "Olea Skincare Web App",
-    description:
-      "Olea is a premium Australian skincare brand web app featuring products made with native botanicals. It highlights natural ingredients, scientific efficacy, and an elegant, immersive user experience.",
-    link: "https://olea-skincare-landing-page.vercel.app/",
-    category: "Frontend",
-    icon: <Palette className="w-4 h-4" />,
-  },
-  {
     title: "Interior Design Portfolio",
     description:
       "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
@@ -49,6 +41,14 @@ const projects = [
     description:
       "Amplify is a modern, motion-driven landing page for digital agencies — designed to showcase services, pricing, and testimonials with smooth transitions and clean UI.",
     link: "https://amplify-socialmediamarketing.vercel.app/",
+    category: "Frontend",
+    icon: <Palette className="w-4 h-4" />,
+  },
+  {
+    title: "Olea Skincare Web App",
+    description:
+      "Olea is a premium Australian skincare brand web app featuring products made with native botanicals. It highlights natural ingredients, scientific efficacy, and an elegant, immersive user experience.",
+    link: "https://olea-skincare-landing-page.vercel.app/",
     category: "Frontend",
     icon: <Palette className="w-4 h-4" />,
   },
