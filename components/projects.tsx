@@ -64,7 +64,7 @@ const projects = [
     title: "Real Estate Platform",
     description:
       "An elegant and responsive real estate landing page developed with Next.js, showcasing properties with a sleek UI and smooth user interactions.",
-    link: "https://github.com/01Maya/RE_State",
+    link: "https://real-e-state-sigma.vercel.app/",
     category: "Frontend",
     icon: <FileCode className="w-4 h-4" />,
   },
