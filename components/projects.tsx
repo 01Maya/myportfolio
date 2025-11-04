@@ -61,12 +61,12 @@ const projects = [
     icon: <Home className="w-4 h-4" />,
   },
   {
-    title: "Agency Landing Page",
+    title: "Amplify-Social Media Marketing & Management Agency",
     description:
-      "A sleek, responsive agency landing page built with React.js and shadcn UI, featuring modern aesthetics and intuitive navigation for an engaging user experience.",
-    link: "https://github.com/01Maya/My-Agency",
+      "Amplify is a modern, motion-driven landing page for digital agencies — designed to showcase services, pricing, and testimonials with smooth transitions and clean UI.",
+    link: "https://amplify-socialmediamarketing.vercel.app/",
     category: "Frontend",
-    icon: <FileCode className="w-4 h-4" />,
+    icon: <Palette className="w-4 h-4" />,
   },
   {
     title: "Real Estate Platform",
