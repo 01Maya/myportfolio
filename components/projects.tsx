@@ -37,14 +37,6 @@ const projects = [
     icon: <Palette className="w-4 h-4" />,
   },
   {
-    title: "Fitness Tracker App",
-    description:
-      "A comprehensive fitness tracking application built with Next.js and TypeScript, featuring workout planning, progress tracking, and interactive exercise guides.",
-    link: "https://github.com/01Maya/Fitness",
-    category: "Frontend",
-    icon: <Dumbbell className="w-4 h-4" />,
-  },
-  {
     title: "Interior Design Portfolio",
     description:
       "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
@@ -66,7 +58,15 @@ const projects = [
       "An elegant and responsive real estate landing page developed with Next.js, showcasing properties with a sleek UI and smooth user interactions.",
     link: "https://real-e-state-sigma.vercel.app/",
     category: "Frontend",
-    icon: <FileCode className="w-4 h-4" />,
+    icon: <Home className="w-4 h-4" />,
+  },
+  {
+    title: "Fitness Tracker App",
+    description:
+      "A comprehensive fitness tracking application built with Next.js and TypeScript, featuring workout planning, progress tracking, and interactive exercise guides.",
+    link: "https://github.com/01Maya/Fitness",
+    category: "Frontend",
+    icon: <Dumbbell className="w-4 h-4" />,
   },
   {
     title: "Profile Page",
