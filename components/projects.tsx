@@ -69,6 +69,14 @@ const projects = [
     icon: <Dumbbell className="w-4 h-4" />,
   },
   {
+    title: "Easify",
+    description:
+      "A modern, minimal, and interactive journal website featuring collapsible cards with tips and exercises for productivity, business, health, lifestyle, and work, plus fun facts, smooth animations, and responsive gradient navigation.",
+    link: "https://mansicardportfolio.vercel.app/",
+    category: "Frontend",
+    icon: <FileCode className="w-4 h-4" />,
+  },
+  {
     title: "Profile Page",
     description:
       "A clean and modern profile page with smooth animations and responsive design, built using TypeScript and modern web technologies for an optimal user experience.",
