@@ -4,7 +4,7 @@ import { Code, Palette, FileCode, Dumbbell, UserCircle, Home } from "lucide-reac
 import { Badge } from "@/components/ui/badge"
 
 const projects = [
-    {
+  {
     title: "My Card Portfolio",
     description:
       "A clean, minimal, and modern interactive Draggable Card Portfolio showcasing projects with draggable cards featuring images, titles, and integrated social links, fully responsive across all devices.",
@@ -19,6 +19,22 @@ const projects = [
     link: "https://paww-care.vercel.app/",
     category: "Frontend",
     icon: <Dumbbell className="w-4 h-4" />,
+  },
+  {
+    title: "Amplify-Social Media Marketing & Management Agency",
+    description:
+      "Amplify is a modern, motion-driven landing page for digital agencies — designed to showcase services, pricing, and testimonials with smooth transitions and clean UI.",
+    link: "https://amplify-socialmediamarketing.vercel.app/",
+    category: "Frontend",
+    icon: <Palette className="w-4 h-4" />,
+  },
+  {
+    title: "Interior Design Portfolio",
+    description:
+      "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
+    link: "https://luxor-interior-design.vercel.app/",
+    category: "Frontend",
+    icon: <Home className="w-4 h-4" />,
   },
   {
     title: "Nail Studio",
@@ -43,22 +59,6 @@ const projects = [
     link: "https://mansicardportfolio.vercel.app/",
     category: "Frontend",
     icon: <FileCode className="w-4 h-4" />,
-  },
-  {
-    title: "Amplify-Social Media Marketing & Management Agency",
-    description:
-      "Amplify is a modern, motion-driven landing page for digital agencies — designed to showcase services, pricing, and testimonials with smooth transitions and clean UI.",
-    link: "https://amplify-socialmediamarketing.vercel.app/",
-    category: "Frontend",
-    icon: <Palette className="w-4 h-4" />,
-  },
-  {
-    title: "Interior Design Portfolio",
-    description:
-      "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
-    link: "https://luxor-interior-design.vercel.app/",
-    category: "Frontend",
-    icon: <Home className="w-4 h-4" />,
   },
   {
     title: "Fitness Tracker App",
