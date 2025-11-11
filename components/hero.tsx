@@ -40,13 +40,13 @@ export function Hero() {
           </Button>
           <div className="mt-12 relative w-48 h-48 mx-auto rounded-full overflow-hidden border-4 border-purple-200 shadow-lg group animate-scale-in">
             <Image
-  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/r%20p-XNCnkyodZj2LkO36UIgEjhktTCn8ql.png"
-  alt="Mansi Patel"
-  width={192}
-  height={192}
-  priority
-  className="object-cover group-hover:scale-110 transition-transform duration-300"
-/>
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/r%20p-XNCnkyodZj2LkO36UIgEjhktTCn8ql.png"
+              alt="Mansi Patel"
+              width={192}
+              height={192}
+              priority
+              className="object-cover group-hover:scale-110 transition-transform duration-300"
+            />
           </div>
         </div>
       </div>

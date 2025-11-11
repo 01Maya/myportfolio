@@ -4,15 +4,15 @@ import { Code, Palette, FileCode, Dumbbell, UserCircle, Home } from "lucide-reac
 import { Badge } from "@/components/ui/badge"
 
 const projects = [
-   {
-     title: "My Card Portfolio",
-     description:
-       "A clean, minimal, and modern interactive Draggable Card Portfolio showcasing projects with draggable cards featuring images, titles, and integrated social links, fully responsive across all devices.",
-     link: "https://mansicardportfolio.vercel.app/",
-     category: "Frontend",
-     icon: <Palette className="w-4 h-4" />,
-   },
-   {
+    {
+    title: "My Card Portfolio",
+    description:
+      "A clean, minimal, and modern interactive Draggable Card Portfolio showcasing projects with draggable cards featuring images, titles, and integrated social links, fully responsive across all devices.",
+    link: "https://mansicardportfolio.vercel.app/",
+    category: "Frontend",
+    icon: <Palette className="w-4 h-4" />,
+  },
+  {
     title: "Paw Care – Landing Page",
     description:
       "An elegant landing page for pet lovers, showcasing smooth animations and a user-friendly design to make pet care services simple and accessible.",
@@ -29,6 +29,22 @@ const projects = [
     icon: <Palette className="w-4 h-4" />,
   },
   {
+    title: "Olea Skincare Web App",
+    description:
+      "Olea is a premium Australian skincare brand web app featuring products made with native botanicals. It highlights natural ingredients, scientific efficacy, and an elegant, immersive user experience.",
+    link: "https://olea-skincare.vercel.app/",
+    category: "Frontend",
+    icon: <Palette className="w-4 h-4" />,
+  },
+  {
+    title: "Easify",
+    description:
+      "A modern, minimal, and interactive journal website featuring collapsible cards with tips and exercises for productivity, business, health, lifestyle, and work, plus fun facts, smooth animations, and responsive gradient navigation.",
+    link: "https://mansicardportfolio.vercel.app/",
+    category: "Frontend",
+    icon: <FileCode className="w-4 h-4" />,
+  },
+    {
     title: "Interior Design Portfolio",
     description:
       "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
@@ -57,16 +73,6 @@ const projects = [
     description:
       "An elegant and responsive real estate landing page developed with Next.js, showcasing properties with a sleek UI and smooth user interactions.",
     link: "https://real-e-state-sigma.vercel.app/",
-    category: "Frontend",
-    icon: <Home className="w-4 h-4" />,
-  },
-  {
-    title: "Fitness Tracker App",
-    description:
-      "A comprehensive fitness tracking application built with Next.js and TypeScript, featuring workout planning, progress tracking, and interactive exercise guides.",
-    link: "https://github.com/01Maya/Fitness",
-    category: "Frontend",
-    icon: <Dumbbell className="w-4 h-4" />,
   },
   {
     title: "Easify",
@@ -76,6 +82,54 @@ const projects = [
     category: "Frontend",
     icon: <FileCode className="w-4 h-4" />,
   },
+    {
+    title: "Interior Design Portfolio",
+    description:
+      "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
+    link: "https://luxor-interior-design.vercel.app/",
+    category: "Frontend",
+    icon: <Home className="w-4 h-4" />,
+  },
+  {
+    title: "Amplify-Social Media Marketing & Management Agency",
+    description:
+      "Amplify is a modern, motion-driven landing page for digital agencies — designed to showcase services, pricing, and testimonials with smooth transitions and clean UI.",
+    link: "https://amplify-socialmediamarketing.vercel.app/",
+    category: "Frontend",
+    icon: <Palette className="w-4 h-4" />,
+  },
+  {
+    title: "Easify",
+    description:
+      "A modern, minimal, and interactive journal website featuring collapsible cards with tips and exercises for productivity, business, health, lifestyle, and work, plus fun facts, smooth animations, and responsive gradient navigation.",
+    link: "https://mansicardportfolio.vercel.app/",
+    category: "Frontend",
+    icon: <FileCode className="w-4 h-4" />,
+  },
+    {
+    title: "Interior Design Portfolio",
+    description:
+      "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
+    link: "https://luxor-interior-design.vercel.app/",
+    category: "Frontend",
+    icon: <Home className="w-4 h-4" />,
+  },
+  {
+    title: "Amplify-Social Media Marketing & Management Agency",
+    description:
+      "Amplify is a modern, motion-driven landing page for digital agencies — designed to showcase services, pricing, and testimonials with smooth transitions and clean UI.",
+    link: "https://amplify-socialmediamarketing.vercel.app/",
+    category: "Frontend",
+    icon: <Palette className="w-4 h-4" />,
+  },
+  {
+    title: "Fitness Tracker App",
+    description:
+      "A comprehensive fitness tracking application built with Next.js and TypeScript, featuring workout planning, progress tracking, and interactive exercise guides.",
+    link: "https://fitness-o1.vercel.app/",
+    category: "Frontend",
+    icon: <Dumbbell className="w-4 h-4" />,
+  },
   {
     title: "Profile Page",
     description:
@@ -83,6 +137,14 @@ const projects = [
     link: "https://github.com/01Maya/Profile",
     category: "Frontend",
     icon: <UserCircle className="w-4 h-4" />,
+  },
+  {
+    title: "Real Estate Platform",
+    description:
+      "An elegant and responsive real estate landing page developed with Next.js, showcasing properties with a sleek UI and smooth user interactions.",
+    link: "https://github.com/01Maya/RE_State",
+    category: "Frontend",
+    icon: <FileCode className="w-4 h-4" />,
   },
   {
     title: "Budget Web App",

@@ -1,4 +1,4 @@
-import { Code2, Database, Palette, BarChart, MessageSquare, Brain } from 'lucide-react'
+import { Code2, Database, Palette, BarChart, Brain, MessageSquare } from 'lucide-react'
 
 const skillCategories = [
   {
@@ -35,7 +35,7 @@ const skillCategories = [
 
 export function Skills() {
   return (
-    <section id="skills" className="py-20 bg-gray-50">
+    <section id="skills" className="py-20 bg-purple-50">
       <div className="max-w-4xl mx-auto px-4">
         <h2 className="section-title animate-title">
           Skills
