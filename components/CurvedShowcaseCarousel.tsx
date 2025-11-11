@@ -69,7 +69,7 @@ export function CurvedShowcaseCarousel() {
     <section
       ref={ref}
       className={cn(
-        "w-full py-20 bg-purple-20 dark:bg-neutral-950 overflow-hidden transition-all duration-700",
+        "w-full py-20 bg-purple-50 dark:bg-neutral-950 overflow-hidden transition-all duration-700",
         visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-6"
       )}
     >
