@@ -44,14 +44,6 @@ const projects = [
     category: "Frontend",
     icon: <FileCode className="w-4 h-4" />,
   },
-    {
-    title: "Interior Design Portfolio",
-    description:
-      "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
-    link: "https://luxor-interior-design.vercel.app/",
-    category: "Frontend",
-    icon: <Home className="w-4 h-4" />,
-  },
   {
     title: "Amplify-Social Media Marketing & Management Agency",
     description:
@@ -61,66 +53,12 @@ const projects = [
     icon: <Palette className="w-4 h-4" />,
   },
   {
-    title: "Olea Skincare Web App",
-    description:
-      "Olea is a premium Australian skincare brand web app featuring products made with native botanicals. It highlights natural ingredients, scientific efficacy, and an elegant, immersive user experience.",
-    link: "https://olea-skincare-landing-page.vercel.app/",
-    category: "Frontend",
-    icon: <Palette className="w-4 h-4" />,
-  },
-  {
-    title: "Real Estate Platform",
-    description:
-      "An elegant and responsive real estate landing page developed with Next.js, showcasing properties with a sleek UI and smooth user interactions.",
-    link: "https://real-e-state-sigma.vercel.app/",
-  },
-  {
-    title: "Easify",
-    description:
-      "A modern, minimal, and interactive journal website featuring collapsible cards with tips and exercises for productivity, business, health, lifestyle, and work, plus fun facts, smooth animations, and responsive gradient navigation.",
-    link: "https://mansicardportfolio.vercel.app/",
-    category: "Frontend",
-    icon: <FileCode className="w-4 h-4" />,
-  },
-    {
     title: "Interior Design Portfolio",
     description:
       "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
     link: "https://luxor-interior-design.vercel.app/",
     category: "Frontend",
     icon: <Home className="w-4 h-4" />,
-  },
-  {
-    title: "Amplify-Social Media Marketing & Management Agency",
-    description:
-      "Amplify is a modern, motion-driven landing page for digital agencies — designed to showcase services, pricing, and testimonials with smooth transitions and clean UI.",
-    link: "https://amplify-socialmediamarketing.vercel.app/",
-    category: "Frontend",
-    icon: <Palette className="w-4 h-4" />,
-  },
-  {
-    title: "Easify",
-    description:
-      "A modern, minimal, and interactive journal website featuring collapsible cards with tips and exercises for productivity, business, health, lifestyle, and work, plus fun facts, smooth animations, and responsive gradient navigation.",
-    link: "https://mansicardportfolio.vercel.app/",
-    category: "Frontend",
-    icon: <FileCode className="w-4 h-4" />,
-  },
-    {
-    title: "Interior Design Portfolio",
-    description:
-      "An elegant interior design portfolio showcasing various projects and designs, built with modern web technologies and featuring beautiful layouts and animations.",
-    link: "https://luxor-interior-design.vercel.app/",
-    category: "Frontend",
-    icon: <Home className="w-4 h-4" />,
-  },
-  {
-    title: "Amplify-Social Media Marketing & Management Agency",
-    description:
-      "Amplify is a modern, motion-driven landing page for digital agencies — designed to showcase services, pricing, and testimonials with smooth transitions and clean UI.",
-    link: "https://amplify-socialmediamarketing.vercel.app/",
-    category: "Frontend",
-    icon: <Palette className="w-4 h-4" />,
   },
   {
     title: "Fitness Tracker App",
