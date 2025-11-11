@@ -1,7 +1,7 @@
 "use client"
 
 import * as React from "react"
-import Image from "next/image" // ✅ Now used correctly
+import Image from "next/image"
 import Autoplay from "embla-carousel-autoplay"
 import {
   Carousel,
@@ -34,23 +34,35 @@ export function CurvedShowcaseCarousel() {
   const [current, setCurrent] = React.useState(0)
   const [count, setCount] = React.useState(projects.length)
 
+  // ✅ Properly typed Embla carousel effect
   React.useEffect(() => {
     if (!api) return
+
     setCount(api.scrollSnapList().length)
     const onSelect = () => setCurrent(api.selectedScrollSnap())
+
     api.on("select", onSelect)
     onSelect()
-    return () => api.off("select", onSelect)
+
+    // ✅ Clean up correctly typed
+    return () => {
+      api.off("select", onSelect)
+    }
   }, [api])
 
+  // ✅ Fade-in on reveal
   const ref = React.useRef<HTMLElement | null>(null)
   const [visible, setVisible] = React.useState(false)
+
   React.useEffect(() => {
     const obs = new IntersectionObserver(([entry]) => {
       if (entry.isIntersecting) setVisible(true)
     }, { threshold: 0.15 })
+
     if (ref.current) obs.observe(ref.current)
-    return () => obs.disconnect()
+    return () => {
+      obs.disconnect()
+    }
   }, [])
 
   return (
@@ -101,7 +113,7 @@ export function CurvedShowcaseCarousel() {
                     >
                       <CardContent className="p-3">
                         <div className="relative aspect-[16/9] overflow-hidden rounded-2xl">
-                          {/* ✅ Replaced <img> with Next <Image /> */}
+                          {/* ✅ Optimized Next.js <Image /> */}
                           <Image
                             src={item.img}
                             alt={item.title}
@@ -111,7 +123,7 @@ export function CurvedShowcaseCarousel() {
                               ease-\[cubic-bezier(.19,1,.22,1)\]
                               group-hover:scale-\[1.18\]"
                             sizes="(max-width: 768px) 100vw, 50vw"
-                            priority={i < 2} // ✅ improve LCP
+                            priority={i < 2}
                           />
                           <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-all duration-500" />
                         </div>
@@ -133,7 +145,7 @@ export function CurvedShowcaseCarousel() {
           <CarouselNext className="hidden md:flex scale-90" />
         </Carousel>
 
-        {/* dots */}
+        {/* ✅ Carousel Dots */}
         <div className="mt-10 flex items-center justify-center gap-2">
           {Array.from({ length: count }).map((_, i) => (
             <button
