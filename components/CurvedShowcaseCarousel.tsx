@@ -22,6 +22,7 @@ const projects = [
   { title: "Coffeo", img: "/coffeo.jpeg", link: "https://coffeo-brew.vercel.app/" },
   { title: "Zudio Perfume Fragrance", img: "/zudio perf.jpeg", link: "https://zperf-fragrance.vercel.app/" },
   { title: "Olea Skin care", img: "/Olea Skin Care.jpeg", link: "https://olea-skincare-landing-page.vercel.app/" },
+  { title: "Celebrations", img: "/Celebrations.jpeg", link: "https://celebrations-box.vercel.app/" },  
   { title: "Isabella Hair Studio", img: "/hairstudio.jpeg", link: "https://bella-hair-studio.vercel.app/" },
   { title: "Profile", img: "/profile.png", link: "https://profile01-minimal.vercel.app/" },
   { title: "Real Estate", img: "/RealEstate.jpeg", link: "https://real-e-state-sigma.vercel.app/" },
