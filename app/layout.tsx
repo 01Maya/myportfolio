@@ -17,7 +17,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Mansi Patel | UI/UX Designer & Frontend Developer",
-  description: "Portfolio of Mansi Patel - IT Student, UI/UX Designer, and Frontend Developer creating engaging digital experiences.",
+  description: "Portfolio of Mansi Patel - IT Student, UI/UX Designer, and Frontend Developer creating engaging digital experiences.✨",
   authors: [{ name: "Mansi Patel" }],
   keywords: ["UI/UX Designer", "Frontend Developer", "Portfolio", "Web Development"],
 }
