@@ -53,6 +53,14 @@ const projects = [
     icon: <Palette className="w-4 h-4" />,
   },
   {
+    title: "Mechanical Portfolio",
+    description:
+      "A professional personal portfolio showcasing the industrial journey, technical expertise, and strategic projects of a Mechanical Supervisor at L&T Defence. Designed to highlight precision engineering experience, leadership, and hands-on mechanical skills in a clean, modern layout.",
+    link: "https://meetp-portfolio.vercel.app/",
+    category: "Frontend",
+    icon: <Home className="w-4 h-4" />,
+  },
+  {
     title: "Easify",
     description:
       "A modern, minimal, and interactive journal website featuring collapsible cards with tips and exercises for productivity, business, health, lifestyle, and work, plus fun facts, smooth animations, and responsive gradient navigation.",
