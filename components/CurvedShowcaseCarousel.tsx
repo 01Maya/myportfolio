@@ -27,6 +27,7 @@ const projects = [
   { title: "Mechanical Portfolio", img: "/ss.jpeg", link: "https://meetp-portfolio.vercel.app/" },
   { title: "Profile", img: "/profile.png", link: "https://profile01-minimal.vercel.app/" },
   { title: "Real Estate", img: "/RealEstate.jpeg", link: "https://real-e-state-sigma.vercel.app/" },
+  { title: "Birthday", img: "/birthday.jpeg", link: "https://sarth-birthday.vercel.app/" },
   { title: "Luxe Nails Studio", img: "/nails.jpeg", link: "https://nail-studio-smoky.vercel.app/" },
   { title: "Wedding Planner", img: "/Wedding planner.jpeg", link: "https://moments-wedding-planner.vercel.app/" },
   { title: "Cryptovault", img: "/crypto.jpeg", link: "https://crypto-vault-o1.vercel.app/" },
