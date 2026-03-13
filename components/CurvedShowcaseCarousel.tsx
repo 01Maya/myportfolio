@@ -17,7 +17,6 @@ import { cn } from "@/lib/utils"
 const projects = [
   { title: "Amplify", img: "/amplify sma.jpeg", link: "https://amplify-socialmediamarketing.vercel.app/" },
   { title: "Paw-Care", img: "/paw care.jpeg", link: "https://paww-care.vercel.app/" },
-  { title: "Christmas-Collection", img: "/christmas.jpeg", link: "https://christmas-collection-store.vercel.app/" },
   { title: "Fitness", img: "/fitness.jpeg", link: "https://fitness-o1.vercel.app/" },
   { title: "Coffeo", img: "/coffeo.jpeg", link: "https://coffeo-brew.vercel.app/" },
   { title: "Zudio Perfume Fragrance", img: "/zudio perf.jpeg", link: "https://zperf-fragrance.vercel.app/" },
@@ -30,6 +29,7 @@ const projects = [
   { title: "Birthday", img: "/birthday.jpeg", link: "https://sarth-birthday.vercel.app/" },
   { title: "Luxe Nails Studio", img: "/nails.jpeg", link: "https://nail-studio-smoky.vercel.app/" },
   { title: "Wedding Planner", img: "/Wedding planner.jpeg", link: "https://moments-wedding-planner.vercel.app/" },
+  { title: "Christmas-Collection", img: "/christmas.jpeg", link: "https://christmas-collection-store.vercel.app/" },
   { title: "Cryptovault", img: "/crypto.jpeg", link: "https://crypto-vault-o1.vercel.app/" },
 ]
 
