@@ -23,7 +23,6 @@ const projects = [
   { title: "Olea Skin care", img: "/Olea Skin Care.jpeg", link: "https://olea-skincare-landing-page.vercel.app/" },
   { title: "Celebrations", img: "/Celebrations.jpeg", link: "https://celebrations-box.vercel.app/" },  
   { title: "Luxe Nails Studio", img: "/nails.jpeg", link: "https://nail-studio-smoky.vercel.app/" },
-  { title: "Isabella Hair Studio", img: "/hairstudio.jpeg", link: "https://bella-hair-studio.vercel.app/" },
   { title: "Mechanical Portfolio", img: "/ss.jpeg", link: "https://meetp-portfolio.vercel.app/" },
   { title: "Profile", img: "/profile.png", link: "https://profile01-minimal.vercel.app/" },
   { title: "Real Estate", img: "/RealEstate.jpeg", link: "https://real-e-state-sigma.vercel.app/" },
@@ -31,6 +30,7 @@ const projects = [
   { title: "Wedding Planner", img: "/Wedding planner.jpeg", link: "https://moments-wedding-planner.vercel.app/" },
   { title: "Christmas-Collection", img: "/christmas.jpeg", link: "https://christmas-collection-store.vercel.app/" },
   { title: "Cryptovault", img: "/crypto.jpeg", link: "https://crypto-vault-o1.vercel.app/" },
+  { title: "Isabella Hair Studio", img: "/hairstudio.jpeg", link: "https://bella-hair-studio.vercel.app/" },
 ]
 
 export function CurvedShowcaseCarousel() {
