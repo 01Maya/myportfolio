@@ -13,6 +13,14 @@ const projects = [
     icon: <Palette className="w-4 h-4" />,
   },
   {
+  title: "URL Shortener & QR Code Generator",
+  description:
+    "Developed a full-stack URL shortener with integrated QR code generation, enabling quick link sharing and redirection. Built with a responsive UI and deployed on Vercel, with optimized performance and user experience.",
+  link: "https://linkyyy01.vercel.app/",
+  category: "Full Stack",
+  icon: <FileCode className="w-4 h-4" />,
+  },
+  {
     title: "Paw Care – Landing Page",
     description:
       "An elegant landing page for pet lovers, showcasing smooth animations and a user-friendly design to make pet care services simple and accessible.",
