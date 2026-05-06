@@ -21,14 +21,6 @@ const projects = [
   icon: <FileCode className="w-4 h-4" />,
   },
   {
-    title: "Paw Care – Landing Page",
-    description:
-      "An elegant landing page for pet lovers, showcasing smooth animations and a user-friendly design to make pet care services simple and accessible.",
-    link: "https://paww-care.vercel.app/",
-    category: "Frontend",
-    icon: <Dumbbell className="w-4 h-4" />,
-  },
-  {
     title: "Amplify-Social Media Marketing & Management Agency",
     description:
       "Amplify is a modern, motion-driven landing page for digital agencies — designed to showcase services, pricing, and testimonials with smooth transitions and clean UI.",
