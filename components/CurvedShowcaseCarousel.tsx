@@ -27,7 +27,6 @@ const projects = [
   { title: "Olea Skin care", img: "/Olea Skin Care.jpeg", link: "https://olea-skincare-landing-page.vercel.app/" },
   { title: "Luxe Nails Studio", img: "/nails.jpeg", link: "https://nail-studio-smoky.vercel.app/" },
   { title: "Mechanical Portfolio", img: "/ss.jpeg", link: "https://meetp-portfolio.vercel.app/" },
-  { title: "Profile", img: "/profile.png", link: "https://profile01-minimal.vercel.app/" },
   { title: "Birthday", img: "/birthday.jpeg", link: "https://sarth-birthday.vercel.app/" },
   { title: "Wedding Planner", img: "/Wedding planner.jpeg", link: "https://moments-wedding-planner.vercel.app/" },
   { title: "Christmas-Collection", img: "/christmas.jpeg", link: "https://christmas-collection-store.vercel.app/" },
