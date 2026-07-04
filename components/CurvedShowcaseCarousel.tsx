@@ -29,7 +29,7 @@ const projects = [
   { title: "Mechanical Portfolio", img: "/ss.jpeg", link: "https://meetp-portfolio.vercel.app/" },
   { title: "Global Luxe", img: "/global luxe.jpeg", link: "https://global-luxe-consulting.vercel.app/" },
   { title: "Car-Rental", img: "/car rental.jpeg", link: "https://carrrental01.vercel.app/" },
-  { title: "SMM Studio", img: "/smm-studio.jpeg", link: "https://smm-studio-social-media-expert.vercel.app/" },
+  { title: "SMM Studio", img: "/SMM Studio.jpg", link: "https://smm-studio-social-media-expert.vercel.app/" },
   { title: "Cryptovault", img: "/crypto.jpeg", link: "https://crypto-vault-o1.vercel.app/" },
   { title: "Isabella Hair Studio", img: "/hairstudio.jpeg", link: "https://bella-hair-studio.vercel.app/" },
 ]
