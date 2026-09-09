@@ -20,6 +20,7 @@ const projects = [
   { title: "Aksari", img: "/resort.jpeg", link: "https://aksari-luxury-resort.vercel.app/" },
   { title: "Fitness", img: "/fitness.jpeg", link: "https://fitness-o1.vercel.app/" },
   { title: "Summer Scout Camp", img: "/summer camp.jpeg", link: "https://summer-scout-camp.vercel.app/" },
+  { title: "Hieu Bowl", img: "/Bowl.jpeg", link: "https://hieu-bowl.vercel.app/" },
   { title: "Aurora Air", img: "/aurora air.jpeg", link: "https://aurora-air.vercel.app/" },
   { title: "Coffeo", img: "/coffeo.jpeg", link: "https://coffeo-brew.vercel.app/" },
   { title: "Energize", img: "/Energize Can.jpeg", link: "https://energize01.vercel.app/" },
