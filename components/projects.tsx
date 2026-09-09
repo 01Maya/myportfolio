@@ -15,7 +15,7 @@ const projects = [
   {
   title: "Hieu Bowl",
   description:
-    "A UX case study exploring the design process, research, and user experience of Hieu Bowl.",
+    "A vibrant UX case study exploring the design process, research, and user experience of Hieu Bowl — a Vietnamese restaurant website designed to showcase fresh ingredients, bold flavors, and an inviting digital experience.",
   link: "/hieu-bowl-case-study.pdf",
   category: "UIUX",
   icon: <Palette className="w-4 h-4" />,
