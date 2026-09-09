@@ -26,7 +26,6 @@ const projects = [
   { title: "Zudio Perfume Fragrance", img: "/zudio perf.jpeg", link: "https://zperf-fragrance.vercel.app/" },
   { title: "Olea Skin care", img: "/Olea Skin Care.jpeg", link: "https://olea-skincare-landing-page.vercel.app/" },
   { title: "Luxe Nails Studio", img: "/nails.jpeg", link: "https://nail-studio-smoky.vercel.app/" },
-  { title: "Mechanical Portfolio", img: "/ss.jpeg", link: "https://meetp-portfolio.vercel.app/" },
   { title: "Global Luxe", img: "/global luxe.jpeg", link: "https://global-luxe-consulting.vercel.app/" },
   { title: "Car-Rental", img: "/car rental.jpeg", link: "https://carrrental01.vercel.app/" },
   { title: "SMM Studio", img: "/SMM Studio.jpg", link: "https://smm-studio-social-media-expert.vercel.app/" },
