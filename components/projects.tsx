@@ -13,6 +13,14 @@ const projects = [
     icon: <Palette className="w-4 h-4" />,
   },
   {
+  title: "Hieu Bowl",
+  description:
+    "A UX case study exploring the design process, research, and user experience of Hieu Bowl.",
+  link: "/hieu-bowl-case-study.pdf",
+  category: "UIUX",
+  icon: <Palette className="w-4 h-4" />,
+  },
+  {
   title: "URL Shortener & QR Code Generator",
   description:
     "Developed a full-stack URL shortener with integrated QR code generation, enabling quick link sharing and redirection. Built with a responsive UI, optimized performance and user experience.",
