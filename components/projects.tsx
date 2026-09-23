@@ -77,14 +77,6 @@ const projects = [
     icon: <Dumbbell className="w-4 h-4" />,
   },
   {
-    title: "Profile Page",
-    description:
-      "A clean and modern profile page with smooth animations and responsive design, built using TypeScript and modern web technologies for an optimal user experience.",
-    link: "https://github.com/01Maya/Profile",
-    category: "Frontend",
-    icon: <UserCircle className="w-4 h-4" />,
-  },
-  {
     title: "Real Estate Platform",
     description:
       "An elegant and responsive real estate landing page developed with Next.js, showcasing properties with a sleek UI and smooth user interactions.",
