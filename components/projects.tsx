@@ -69,14 +69,6 @@ const projects = [
     icon: <FileCode className="w-4 h-4" />,
   },
   {
-    title: "Fitness Tracker App",
-    description:
-      "A comprehensive fitness tracking application built with Next.js and TypeScript, featuring workout planning, progress tracking, and interactive exercise guides.",
-    link: "https://fitness-o1.vercel.app/",
-    category: "Frontend",
-    icon: <Dumbbell className="w-4 h-4" />,
-  },
-  {
     title: "Real Estate Platform",
     description:
       "An elegant and responsive real estate landing page developed with Next.js, showcasing properties with a sleek UI and smooth user interactions.",
