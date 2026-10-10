@@ -1,6 +1,6 @@
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Code, Palette, FileCode, Dumbbell, UserCircle, Home } from "lucide-react"
+import { Code, Palette, FileCode, Home } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 
 const projects = [
