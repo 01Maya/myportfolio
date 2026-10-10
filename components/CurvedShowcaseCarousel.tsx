@@ -18,7 +18,7 @@ const projects = [
   { title: "Amplify", img: "/amplify sma.jpeg", link: "https://amplify-socialmediamarketing.vercel.app/" },
   { title: "Paw-Care", img: "/paw care.jpeg", link: "https://paww-care.vercel.app/" },
   { title: "Aksari", img: "/resort.jpeg", link: "https://aksari-luxury-resort.vercel.app/" },
-  { title: "AM Cyber Portfolio", img: "/am cyberportfolio.jpeg", link: "https://am-cyberportfolio.vercel.app/" },
+  { title: "AM Cyber Portfolio", img: "/cyber portfolio.jpeg", link: "https://am-cyberportfolio.vercel.app/" },
   { title: "Fitness", img: "/fitness.jpeg", link: "https://fitness-o1.vercel.app/" },
   { title: "Summer Scout Camp", img: "/summer camp.jpeg", link: "https://summer-scout-camp.vercel.app/" },
   { title: "Hieu Bowl", img: "/Bowl.jpeg", link: "https://hieu-bowl.vercel.app/" },
