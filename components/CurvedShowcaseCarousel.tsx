@@ -17,6 +17,7 @@ import { cn } from "@/lib/utils"
 const projects = [
   { title: "Amplify", img: "/amplify sma.jpeg", link: "https://amplify-socialmediamarketing.vercel.app/" },
   { title: "Paw-Care", img: "/paw care.jpeg", link: "https://paww-care.vercel.app/" },
+  { title: "Ritual", img: "/ritual.jpeg", link: "https://rituals1.vercel.app/" },
   { title: "Aksari", img: "/resort.jpeg", link: "https://aksari-luxury-resort.vercel.app/" },
   { title: "AM Cyber Portfolio", img: "/cyber portfolio.jpeg", link: "https://am-cyberportfolio.vercel.app/" },
   { title: "Fitness", img: "/fitness.jpeg", link: "https://fitness-o1.vercel.app/" },
