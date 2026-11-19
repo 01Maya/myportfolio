@@ -22,6 +22,7 @@ const projects = [
   { title: "Quantora", img: "/quantorra.png", link: "https://quantoraa.vercel.app/" },
   { title: "AM Cyber Portfolio", img: "/cyber portfolio.jpeg", link: "https://am-cyberportfolio.vercel.app/" },
   { title: "Fitness", img: "/fitness.jpeg", link: "https://fitness-o1.vercel.app/" },
+  { title: "LumaFlow", img: "/LumaFlow.jpeg", link: "https://lumaflow-m.vercel.app/" },
   { title: "Summer Scout Camp", img: "/summer camp.jpeg", link: "https://summer-scout-camp.vercel.app/" },
   { title: "Hieu Bowl", img: "/Bowl.jpeg", link: "https://hieu-bowl.vercel.app/" },
   { title: "Aurora Air", img: "/aurora air.jpeg", link: "https://aurora-air.vercel.app/" },
